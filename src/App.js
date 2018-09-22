@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import cc from 'cryptocompare';
+import cc from './cryptocompare';
 import './App.css';
 import AmCharts from '@amcharts/amcharts3-react';
 
